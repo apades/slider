@@ -35,7 +35,6 @@
     "docs:build": "dumi build",
     "docs:deploy": "gh-pages -d .doc",
     "now-build": "npm run docs:build",
-    "prepublishOnly": "npm run compile && np --yolo --no-publish",
     "prettier": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\"",
     "start": "dumi dev",
     "test": "rc-test"
