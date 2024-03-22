@@ -1,5 +1,5 @@
 {
-  "name": "@dm-mini-player/rc-slider",
+  "name": "@apad/rc-slider",
   "version": "10.5.0",
   "description": "Slider UI component for React",
   "keywords": [
