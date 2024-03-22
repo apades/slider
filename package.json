@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git@github.com:react-component/slider.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "main": "./lib/index",
   "module": "./es/index",
